@@ -1,0 +1,3 @@
+[virtual_machines]
+
+[raspberry_pi_hosts]
